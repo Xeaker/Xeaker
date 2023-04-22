@@ -1,4 +1,4 @@
-###  2D Monster Catching RPG 
+###  2D Dungeon Crawler RPG 
  https://store.steampowered.com/app/1854280/The_Vision_Of_The_Ant   
 
 ### 2D Survival Horror  
